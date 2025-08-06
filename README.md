@@ -18,3 +18,4 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+## 🚀 This line added for Coursera CLI merge
